@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 252658f73273b194a93da59f76f3b0e8, type: 3}
+  m_Name: Adam
+  m_EditorClassIdentifier: 
+  idleRight: {fileID: 7400000, guid: d4c1e7ecb0b717a499c6944d8d80c4f2, type: 2}
+  idleLeft: {fileID: 7400000, guid: a702d4925edf9304e8e5af0d15fc6216, type: 2}
+  idleBack: {fileID: 7400000, guid: 260d852c8212ba44a8722834fd7f921d, type: 2}
+  idleFront: {fileID: 7400000, guid: 9075fda43ddf55d4ba4545b84e710c71, type: 2}
+  runRight: {fileID: 7400000, guid: 10b7b6fbbe409f24ab93ee02a37cedda, type: 2}
+  runLeft: {fileID: 7400000, guid: 38a9fc9b2cb577e4f9271f0d27b8bd3a, type: 2}
+  runBack: {fileID: 7400000, guid: e2efe7202d0f0d1469a98ec8de9762c8, type: 2}
+  runFront: {fileID: 7400000, guid: 637ee3e0280c37f4ebc9718485ecd01b, type: 2}
+  standRight: {fileID: 7400000, guid: fcb9f5c1c2c393447ac07e2597b3f9b0, type: 2}
+  standLeft: {fileID: 7400000, guid: 4dcb159896d78bc44a233b75760f9dff, type: 2}
+  standBack: {fileID: 7400000, guid: 5826a69e3c15baf408bda6b8c48d490c, type: 2}
+  standFront: {fileID: 7400000, guid: 16df0aed4ae5a634fb863be5e3062876, type: 2}
+  phoneOn: {fileID: 7400000, guid: 1f98b70886e3fe7449f81c7dcf5d0054, type: 2}
+  phoneOff: {fileID: 7400000, guid: 8c351f523f8ee574b879a299d23a1a03, type: 2}
+  sitRight: {fileID: 7400000, guid: d470b42fd9164e84db06d2c73325ec3e, type: 2}
+  sitLeft: {fileID: 7400000, guid: 539b8f3c85375e8458b3d518bbbf14aa, type: 2}

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1a6a23df1ed50c643adb0e032da783b3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pumpkin Story
+  fontNames:
+  - Pumpkin Story
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 97ee142792344af4cae652ea9ce44b5c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

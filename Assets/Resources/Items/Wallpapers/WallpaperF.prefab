@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7616638395213690422
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9215205980709256196}
+  - component: {fileID: -8484588419849446112}
+  m_Layer: 0
+  m_Name: WallpaperF
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9215205980709256196
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7616638395213690422}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-8484588419849446112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7616638395213690422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceeb5d3f9f234ea4482946e587fa4d5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemCode: WP-6
+  rawCost: 200
+  sprite: {fileID: 1504004867912082829, guid: 5b8cea3ed7d6b134c8886e74cb5a6775, type: 3}
+  descSprite: {fileID: -907330902915576432, guid: 31382657b55893d42880e8dc982aef08,
+    type: 3}
+  descName: Wallset F
+  locked: 0
+  description: Di ko alam description.
+  wallset: {fileID: 11400000, guid: 0d5d814f71a1fb94aa23700839f294f4, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 252658f73273b194a93da59f76f3b0e8, type: 3}
+  m_Name: Amelia
+  m_EditorClassIdentifier: 
+  idleRight: {fileID: 7400000, guid: b8610ebd38db9364b80c214d62b2285b, type: 2}
+  idleLeft: {fileID: 7400000, guid: 028daa89be8fa1947b0ef39bfe54c508, type: 2}
+  idleBack: {fileID: 7400000, guid: 83908f7000dd1d843a773b24f50cb1c0, type: 2}
+  idleFront: {fileID: 7400000, guid: ced3fd8d29aa7c1428fff3957fba0c40, type: 2}
+  runRight: {fileID: 7400000, guid: 85fd0f01908fad34492a18155ee7e6eb, type: 2}
+  runLeft: {fileID: 7400000, guid: 5d344d2c5848e3c4c8b6570fbea99aec, type: 2}
+  runBack: {fileID: 7400000, guid: 2941c6592b74b7645a0a6c534f380ad5, type: 2}
+  runFront: {fileID: 7400000, guid: e2927e33a7604354a9b7f0c54db5966b, type: 2}
+  standRight: {fileID: 7400000, guid: 0f1f11e9486e327469ac858768738721, type: 2}
+  standLeft: {fileID: 7400000, guid: cbb780baf128ef543b143dbe1002c6fd, type: 2}
+  standBack: {fileID: 7400000, guid: ad799c73210e02c49aecf8ed40a43769, type: 2}
+  standFront: {fileID: 7400000, guid: c297a901fa884c740bb99e1c1f3f4917, type: 2}
+  phoneOn: {fileID: 7400000, guid: 8a4a6c2da2c4b184b8c858a8ddf3fab7, type: 2}
+  phoneOff: {fileID: 7400000, guid: be8496164117ea84382778b2cfe9b647, type: 2}
+  sitRight: {fileID: 7400000, guid: 1aac9e8373c225a4697228f22cf4b048, type: 2}
+  sitLeft: {fileID: 7400000, guid: 7ec93496c0c437c4c935071d9fca8d56, type: 2}

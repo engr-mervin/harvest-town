@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DesignUncollidable
+  - DesignCollidable
+  - Chair
+  - Window
+  - Door
+  - Table
+  - Mat
+  - Plant
+  - Cabinet
+  - Bookshelves
+  - Electronics
+  - Gadgets
+  - Speakers
+  - Instruments
+  - Bed
+  - Books and Toys
+  - Plumbing and Lavatories
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Base
+    uniqueID: 3203907869
+    locked: 0
+  - name: Sprite
+    uniqueID: 4043254721
+    locked: 0
+  - name: UI
+    uniqueID: 2939994503
+    locked: 0
+  - name: Something
+    uniqueID: 1057875301
+    locked: 0

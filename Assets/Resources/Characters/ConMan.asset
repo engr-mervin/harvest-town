@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 252658f73273b194a93da59f76f3b0e8, type: 3}
+  m_Name: ConMan
+  m_EditorClassIdentifier: 
+  idleRight: {fileID: 7400000, guid: 020306c51837502448f5e2a975931c3e, type: 2}
+  idleLeft: {fileID: 7400000, guid: 91317fb1ce8ee1e40ac95f264d246999, type: 2}
+  idleBack: {fileID: 7400000, guid: a905221b65ce0a54da987158614de2df, type: 2}
+  idleFront: {fileID: 7400000, guid: 5c9556a666b2d5b418255bb2a4f8c832, type: 2}
+  runRight: {fileID: 7400000, guid: 36f1889ec49a80d4fa169d5b920f86aa, type: 2}
+  runLeft: {fileID: 7400000, guid: 8dcca0183ae06254e9a4bbdcd8008235, type: 2}
+  runBack: {fileID: 7400000, guid: 6619909bf8383af42b9b2ae7fda7f210, type: 2}
+  runFront: {fileID: 7400000, guid: 94ba2eacd31690649bac5982dd5e001a, type: 2}
+  standRight: {fileID: 7400000, guid: 7b8981daa50cca041a61c0a60a313e22, type: 2}
+  standLeft: {fileID: 7400000, guid: 923b658593e42f14f9a9ebce82447d08, type: 2}
+  standBack: {fileID: 7400000, guid: 6f986b04567ba2b439b92de3a22ba622, type: 2}
+  standFront: {fileID: 7400000, guid: 42fceaa9c074810439bc08a431f6c89a, type: 2}
+  phoneOn: {fileID: 7400000, guid: 0d46cf16d01dd4140a279db2a0f64b9f, type: 2}
+  phoneOff: {fileID: 7400000, guid: 527db9cf5a94a74428b9cd5fdc3db583, type: 2}
+  sitRight: {fileID: 7400000, guid: 357237aec93cef44ba8b1b999ba60a15, type: 2}
+  sitLeft: {fileID: 7400000, guid: a5fe439cdcd83a04c8cbd7c615fcee03, type: 2}
